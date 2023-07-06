@@ -47,7 +47,6 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\RotationBackground.cs" />
      <Compile Include="Assets\Scripts\QuestionDisplay.cs" />
      <Compile Include="Assets\Scripts\AnswerButtons.cs" />
      <Compile Include="Assets\Scripts\SplashToGame.cs" />

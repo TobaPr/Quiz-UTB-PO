@@ -1,0 +1,25 @@
+Počet členů v týmu: 1
+Jména členů týmu: Tomáš Prajza 
+Název týmu: Borec na konec
+
+Nápad: Vytvořit hru, která bude mít vzdělávací charakter.
+Úkol hry: Kvíz pro děti na základní škole, který bude prohlubovat jejich všeobecné znalosti. 
+Projekce 2D/3D: 2D
+Nápad graficky: Jednoduchý design, ve kterém bude otázka a výběr z několika odpovědí. Dále bude zobrazeno skóre, a maximální dosažené skóre. To by mělo motivovat k opakování kvízu a zlepšení :)
+Název hry: Kvíz pro děti
+Co vytváří obtížnost: Otázky v kvízu. S opakováním otázek se "hráč" postupně učí odpovědi. 
+Co vytváří motivaci: Získat co nejlepší skóre.
+Mechanika ovládání hry: Pouze výběr z možných odpovědí na otázku. Pokud je otázka správná, tak získávám body. Pokud není správná tak o body přicházím. 
+Je hra goal-oriented: Dosáhnout co nejlepšího skóre.
+Má hra Game-Based Learning složku: Bohužel ne (možná to skóre...)
+Technologie, které umím: Umím v C#. Unity je pro mě velká neznámá.
+Technologie, které neumím (a odhad jak dlouho bude trvat se je naučit): Základy Unity, pro toto řešení snad bude stačit pár hodin. 
+
+Jednotlivé kroky vývoje (sprinty):
+// jednotlivé etapy jsou ohodnoceny hodinami (h)
+1) Volba tématu - 1h
+2) Definování požadavků - 2h
+3) Výběr technologi a porozumění - 4h (technologie je zadaná "unity" => absolvování tutoriálu (je moc pěkný, ale zabere dost času))
+4) HARD-CODING - 12h
+5) Definování otázek do kvízu - 2h
+6) Testování - 2h
